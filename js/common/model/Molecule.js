@@ -17,7 +17,7 @@ import LocalShape from './LocalShape.js';
 import PairGroup from './PairGroup.js';
 import VSEPRConfiguration from './VSEPRConfiguration.js';
 
-const MAX_PAIRS = 6;
+const MAX_PAIRS = 9;
 
 function addToEndOfArray( array, item, addToFront ) {
   if ( addToFront ) {
